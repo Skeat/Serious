@@ -1,0 +1,17 @@
+########################
+#
+#
+#
+# -- TEST DATEI --
+#
+#
+#
+#
+########################
+
+In welchem Jahr erschien World of Warcraft in der USA?
+
+
+A: 2003 B: 2004 C: 2005 D: 2007
+
+# -- Lösung: B -- #
